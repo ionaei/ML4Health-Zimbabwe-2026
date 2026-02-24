@@ -21,27 +21,27 @@ The course builds from first principles and culminates in applying machine learn
 <table>
 <tr>
 <td align="center">
-<img src="assets/staff/iona_biggart.jpg" width="160"><br>
+<img src="assets/staff/iona_biggart.jpeg" width="160"><br>
 <b>Iona Biggart</b><br>
 PhD student at Imperial College London, with applied focus on AI for paediatric medicine. 
 </td>
 
 <td align="center">
-<img src="assets/staff/marco_reed.jpg" width="160"><br>
+<img src="assets/staff/marco_reed.jpeg" width="160"><br>
 <b>Marco Reed</b><br>
-PhD...
+PhD student at Imperial College London, with applied focus on AI for paediatric medicine. 
 </td>
 
 <td align="center">
-<img src="assets/staff/kevin_meck.jpg" width="160"><br>
+<img src="assets/staff/kevin_meck.png" width="160"><br>
 <b>Kevin Meck</b><br>
-...
+Biomedical and applied medical AI engineer at Neotree. 
 </td>
 
 <td align="center">
-<img src="assets/staff/aditi_rao.jpg" width="160"><br>
+<img src="assets/staff/aditi_rao.jpeg" width="160"><br>
 <b>Aditi Rao</b><br>
-...
+Doctoral candidate at Imperial College London with Neotree
 </td>
 </tr>
 </table>
