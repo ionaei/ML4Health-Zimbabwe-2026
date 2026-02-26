@@ -48,6 +48,24 @@ Doctoral candidate at Imperial College London with Neotree
 
 </div>
 
+
+## Guest Lectures
+<table>
+<tr>
+<td align="center">
+<img src="assets/staff/payam_barnaghi.jpg" width="160"><br>
+<b>Professor Payam Barnaghi</b><br>
+Chair in Machine Intelligence Applied to Medicine, Imperial College London
+</td>
+
+
+<td align="center">
+<img src="assets/staff/antigone_fogel.jpeg" width="160"><br>
+<b>Antigone Fogel</b><br>
+PhD student, AI for dementia research, UK DRI and Imperial College London </td>
+</tr>
+</table>
+
 ---
 
 # Course Overview
@@ -178,4 +196,4 @@ We gratefully acknowledge the original ML4NS teaching materials and contributors
 
 ## Acknowledgements
 
-We thank all past contributors to the ML4NS course and the Translational Machine Intelligence Lab for foundational teaching materials.
+We thank all past contributors to the ML4NS course and the Translational Machine Intelligence Lab for foundational teaching materials. We thank Dr. Felicity Fitzgerald and Professor Michelle Heys for their support and collaboration. 
