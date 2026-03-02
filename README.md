@@ -174,6 +174,12 @@ pip install -r requirements.txt
 
 ```
 
+### Afternoon Labs
+
+#### Lab 1 – Python for Beginners
+Click below to open in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/01%20-%20Python%20for%20Beginners.ipynb)
 
 ## Course Origins
 
