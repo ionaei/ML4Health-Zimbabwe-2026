@@ -176,11 +176,13 @@ pip install -r requirements.txt
 
 ### Afternoon Labs
 
-#### Lab 1 – Python for Beginners
+#### Day 1 – Python for Beginners
 Click below to open in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/01%20-%20Python%20for%20Beginners.ipynb)
 
+#### Day 2 – SVM, decision trees and random forest
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/day%202/%20SVM%20Decision%20Trees%20and%20Random%20Forest.ipynb)
 ## Course Origins
 
 This module has been adapted and streamlined from:
