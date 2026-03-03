@@ -133,6 +133,12 @@ By the end of this course, you should be able to:
 - Apply ensemble models to structured datasets
 - Critically evaluate modelling choices in health applications
 
+
+## Guest lectures:
+- Kevin Meck: Neotree, sepsis modelling
+- Aditi Rao: Neotree, implementation of ML tools in clinical settings 
+- Antigone Fogel: Predictive modelling for dementia progression
+
 ---
 
 # Repository Structure
