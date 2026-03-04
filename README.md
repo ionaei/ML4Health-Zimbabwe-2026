@@ -23,7 +23,7 @@ The course builds from first principles and culminates in applying machine learn
 <td align="center">
 <img src="assets/staff/iona_biggart.jpeg" width="160"><br>
 <b>Iona Biggart</b><br>
-AI 4 Paediatrcis PhD student at Imperial College London (email: iona.biggart23@imperial.ac.uk)
+AI 4 Paediatrcis PhD student at Imperial College London (iona.biggart23@imperial.ac.uk)
 </td>
 
 <td align="center">
