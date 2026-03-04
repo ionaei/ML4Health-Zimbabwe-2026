@@ -23,13 +23,13 @@ The course builds from first principles and culminates in applying machine learn
 <td align="center">
 <img src="assets/staff/iona_biggart.jpeg" width="160"><br>
 <b>Iona Biggart</b><br>
-AI 4 Paediatrcis PhD student at Imperial College London
+AI 4 Paediatrcis PhD student at Imperial College London (email: iona.biggart23@imperial.ac.uk)
 </td>
 
 <td align="center">
 <img src="assets/staff/marco_reed.jpeg" width="160"><br>
 <b>Marco Reed</b><br>
-AI 4 Paediatrcis PhD student at Imperial College London
+AI 4 Paediatrcis PhD student at Imperial College London (marco.reed24@imperial.ac.uk)
 </td>
 
 <td align="center">
@@ -189,6 +189,19 @@ Click below to open in Google Colab:
 
 #### Day 2 – SVM, decision trees and random forest
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/day%202/%20SVM%20Decision%20Trees%20and%20Random%20Forest.ipynb)
+
+### Day 3 - additional labs
+
+Linear algebra:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/Linear%20Algebra%20Tutorial.ipynb)
+
+Normalisation and standardisation:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/Normalisation%20Scaling%20Imputation.ipynb)
+
+Machine learning for beginners assessment (optional):
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/Machine%20Learning%20for%20Beginners%20Assessment.ipynb)
+
+
 ## Course Origins
 
 This module has been adapted and streamlined from:
