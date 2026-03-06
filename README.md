@@ -52,17 +52,25 @@ Doctoral candidate at Imperial College London with Neotree
 ## Guest Lectures
 <table>
 <tr>
+
 <td align="center">
-<img src="assets/staff/payam_barnaghi.jpg" width="160"><br>
+<img src="assets/staff/payam_barnaghi.jpg" width="230"><br>
 <b>Professor Payam Barnaghi</b><br>
 Chair in Machine Intelligence Applied to Medicine, Imperial College London
 </td>
 
+<td align="center">
+<img src="assets/staff/prof_tawanda_mushiri.jpeg" width="160"><br>
+<b>Professor Tawanda Mushiri</b><br>
+Associate Professor, AI and Robotics, SIRDC
+</td>
 
 <td align="center">
 <img src="assets/staff/antigone_fogel.jpeg" width="160"><br>
 <b>Antigone Fogel</b><br>
-PhD student, AI for dementia research, UK DRI and Imperial College London </td>
+PhD student, AI for dementia research, UK DRI and Imperial College London
+</td>
+
 </tr>
 </table>
 
