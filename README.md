@@ -231,4 +231,4 @@ We thank all past contributors to the ML4NS course and the Translational Machine
   <img src="assets/funders_image.png" width="800">
 </p>
 
-This course was made possible by support from the organisations listed above as well as the Imperial College London Dean's PhD Professional Development Award granted to Iona Biggart and Marco Reed
+This course was made possible by support from the organisations listed above as well as the Imperial College London Dean's PhD Professional Development Award granted to Iona Biggart and Marco Reed.
