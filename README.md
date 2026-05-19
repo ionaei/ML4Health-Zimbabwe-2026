@@ -25,13 +25,13 @@ This course is a spin-off of the ML4NS programme developed within the Department
 <td align="center">
 <img src="assets/staff/iona_biggart.jpeg" width="160"><br>
 <b>Iona Biggart</b><br>
-AI 4 Paediatrcis PhD student at Imperial College London (iona.biggart23@imperial.ac.uk)
+AI 4 Paediatrcis PhD student, Department of Brain Sciences, Imperial College London (iona.biggart23@imperial.ac.uk)
 </td>
 
 <td align="center">
 <img src="assets/staff/marco_reed.jpeg" width="160"><br>
 <b>Marco Reed</b><br>
-AI 4 Paediatrcis PhD student at Imperial College London (marco.reed24@imperial.ac.uk)
+AI 4 Paediatrcis PhD student, Department of Brain Sciences, Imperial College London (marco.reed24@imperial.ac.uk)
 </td>
 
 <td align="center">
