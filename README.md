@@ -13,6 +13,7 @@ This course introduces the **foundations of machine learning**, with a strong fo
 The course builds from first principles and culminates in applying machine learning methods to health-related prediction tasks.
 
 This course is a spin-off of the ML4NS programme developed within the Department of Brain Sciences at Imperial College London.
+
 ---
 
 ## Teaching Team
