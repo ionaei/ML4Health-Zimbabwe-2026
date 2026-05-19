@@ -231,7 +231,7 @@ We gratefully acknowledge the original ML4NS teaching materials and contributors
 
 ## Acknowledgements
 
-We thank all past contributors to the ML4NS course and the Translational Machine Intelligence Lab for foundational teaching materials. We thank Dr. Felicity Fitzgerald and Professor Michelle Heys for their support and collaboration.
+We thank all past contributors to the ML4NS course and the Translational Machine Intelligence Lab for foundational teaching materials. We thank Dr. Felicity Fitzgerald and Professor Michelle Heys for their support and collaboration. We also thank the [Department of Brain Sciences at Imperial College London](https://www.imperial.ac.uk/brain-sciences/) for their support.
 
 ## Funding
 
