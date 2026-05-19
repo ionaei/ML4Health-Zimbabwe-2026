@@ -58,7 +58,7 @@ Doctoral candidate at Imperial College London with Neotree
 <td align="center">
 <img src="assets/staff/payam_barnaghi.jpg" width="230"><br>
 <b>Professor Payam Barnaghi</b><br>
-Chair in Machine Intelligence Applied to Medicine, Imperial College London
+Chair in Machine Intelligence Applied to Medicine, Department of Brain Sciences, Imperial College London
 </td>
 
 <td align="center">
@@ -70,7 +70,7 @@ Associate Professor, AI and Robotics, SIRDC
 <td align="center">
 <img src="assets/staff/antigone_fogel.jpeg" width="160"><br>
 <b>Antigone Fogel</b><br>
-PhD student, AI for dementia research, UK DRI and Imperial College London
+AI for dementia research, UK DRI and Department of Brain Sciences, Imperial College London
 </td>
 
 </tr>
