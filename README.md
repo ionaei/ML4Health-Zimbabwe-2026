@@ -23,13 +23,13 @@ The course builds from first principles and culminates in applying machine learn
 <td align="center">
 <img src="assets/staff/iona_biggart.jpeg" width="160"><br>
 <b>Iona Biggart</b><br>
-AI 4 Paediatrcis PhD student at Imperial College London
+AI 4 Paediatrcis PhD student at Imperial College London (iona.biggart23@imperial.ac.uk)
 </td>
 
 <td align="center">
 <img src="assets/staff/marco_reed.jpeg" width="160"><br>
 <b>Marco Reed</b><br>
-AI 4 Paediatrcis PhD student at Imperial College London
+AI 4 Paediatrcis PhD student at Imperial College London (marco.reed24@imperial.ac.uk)
 </td>
 
 <td align="center">
@@ -52,17 +52,25 @@ Doctoral candidate at Imperial College London with Neotree
 ## Guest Lectures
 <table>
 <tr>
+
 <td align="center">
-<img src="assets/staff/payam_barnaghi.jpg" width="160"><br>
+<img src="assets/staff/payam_barnaghi.jpg" width="230"><br>
 <b>Professor Payam Barnaghi</b><br>
 Chair in Machine Intelligence Applied to Medicine, Imperial College London
 </td>
 
+<td align="center">
+<img src="assets/staff/prof_tawanda_mushiri.jpeg" width="160"><br>
+<b>Professor Tawanda Mushiri</b><br>
+Associate Professor, AI and Robotics, SIRDC
+</td>
 
 <td align="center">
 <img src="assets/staff/antigone_fogel.jpeg" width="160"><br>
 <b>Antigone Fogel</b><br>
-PhD student, AI for dementia research, UK DRI and Imperial College London </td>
+PhD student, AI for dementia research, UK DRI and Imperial College London
+</td>
+
 </tr>
 </table>
 
@@ -133,6 +141,12 @@ By the end of this course, you should be able to:
 - Apply ensemble models to structured datasets
 - Critically evaluate modelling choices in health applications
 
+
+## Guest lectures:
+- Kevin Meck: Neotree, sepsis modelling
+- Aditi Rao: Neotree, implementation of ML tools in clinical settings 
+- Antigone Fogel: Predictive modelling for dementia progression
+
 ---
 
 # Repository Structure
@@ -176,10 +190,25 @@ pip install -r requirements.txt
 
 ### Afternoon Labs
 
-#### Lab 1 – Python for Beginners
+#### Day 1 – Python for Beginners
 Click below to open in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/01%20-%20Python%20for%20Beginners.ipynb)
+
+#### Day 2 – SVM, decision trees and random forest
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/day%202/%20SVM%20Decision%20Trees%20and%20Random%20Forest.ipynb)
+
+### Day 3 - additional labs
+
+Linear algebra:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/Linear%20Algebra%20Tutorial.ipynb)
+
+Normalisation and standardisation:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/Normalisation%20Scaling%20Imputation.ipynb)
+
+Machine learning for beginners assessment (optional):
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ionaei/ML4Health-Zimbabwe-2026/blob/main/afternoon_labs/Machine%20Learning%20for%20Beginners%20Assessment.ipynb)
+
 
 ## Course Origins
 
@@ -202,4 +231,12 @@ We gratefully acknowledge the original ML4NS teaching materials and contributors
 
 ## Acknowledgements
 
-We thank all past contributors to the ML4NS course and the Translational Machine Intelligence Lab for foundational teaching materials. We thank Dr. Felicity Fitzgerald and Professor Michelle Heys for their support and collaboration. 
+We thank all past contributors to the ML4NS course and the Translational Machine Intelligence Lab for foundational teaching materials. We thank Dr. Felicity Fitzgerald and Professor Michelle Heys for their support and collaboration.
+
+## Funding
+
+<p align="center">
+  <img src="assets/funders_image.png" width="800">
+</p>
+
+This course was made possible by support from the organisations listed above as well as the Imperial College London Dean's PhD Professional Development Award granted to Iona Biggart and Marco Reed.
